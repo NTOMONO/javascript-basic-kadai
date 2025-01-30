@@ -3,4 +3,4 @@ let year = today.getFullYear();
 let month = today.getMonth() + 1;
 let date = today.getDate();
 
-console.log("%d年%d月%d日", year, month, date);
+console.log(year + "年" + month + "月" + date + "日");
